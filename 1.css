@@ -1,0 +1,107 @@
+*{margin:0;padding:0; }
+nav.navbar.navbar-default {
+    padding-top:  15px;
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+}
+img.img-responsive {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+.top {
+    background: #18bc9c;
+    color: white;
+    text-align: center;
+    padding-top: 66px;
+    padding-bottom: 66px;
+}
+
+h2.intro {
+    font-size: 3.75em;
+    font-weight: 700;
+}
+
+p.skills {
+    font-size: 1em;
+    font-weight: 300;
+}
+hr.hr-light {
+    /*text-align: center;*/
+    border-top: solid 5px;
+    max-width: 250px;
+    margin: 25px auto 30px auto;
+}
+.portfolio {
+    padding-top: 17px;
+    padding-bottom: 30px;
+}
+h2.portfolio {
+    font-size: 3em;
+    font-weight: 700;
+    color: #1c19bd;
+    padding-bottom: 6px;
+}
+hr.hr-portfolio {
+    border-top: solid 5px;
+    max-width: 250px;
+    margin: 21px auto 20px auto;
+}
+.about {
+    background: #18bc9c;
+    color: white;
+    padding-top: 21px;
+    padding-bottom: 58px;
+}
+h2.about {
+    font-size: 3em;
+    font-weight: 700;
+    padding-bottom: 6px;
+}
+hr.hr-about {
+    border-top: solid 5px;
+    max-width: 250px;
+    margin: 21px auto 20px auto;
+}
+p.content-about {
+    font-size: 1.11111em;
+}
+button.btn.btn-default {
+    padding: 15px 20px 15px 20px;
+    background: #18bc9c;
+    border-color: white;
+}
+h2.contact-me {
+    font-size: 3em;
+    color: #1c19bd;
+    font-weight: 700;
+}
+
+.contact-me {
+    padding-top: 9px;
+}
+hr.hr-contactme {
+    border-top: solid 5px;
+    color: black;
+    max-width: 250px;
+    margin: 20px auto 10px auto;
+}
+label {
+    color: gray;
+    font-size: 1.2em;
+}
+.footer-above {
+    color: white;
+    background: #2c3e50;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+.contact-me {
+    margin-bottom: 45px;
+}
+.footer-below {
+    color: white;
+    background: #233140;
+    padding-bottom: 15px;
+    padding-top: 19px;
+}
+ 
